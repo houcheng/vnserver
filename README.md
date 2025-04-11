@@ -1,2 +1,2 @@
 # vnserver
-voice note server
+voice note server placeholder
